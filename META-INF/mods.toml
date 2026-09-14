@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+[[mods]]
+modId="low_firepower"
+version="1.0.0-r2"
+displayName="火力不足"
+authors="AutoMods"
+logoFile="logo.png"
+description='''
+火力不足
+'''
+[[dependencies.low_firepower]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.4.0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.low_firepower]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.low_firepower]]
+    modId="curios"
+    mandatory=true
+    versionRange="[5.14.1,6.0)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.low_firepower]]
+    modId="tacz"
+    mandatory=true
+    versionRange="[1.0,)"
+    ordering="AFTER"
+    side="BOTH"

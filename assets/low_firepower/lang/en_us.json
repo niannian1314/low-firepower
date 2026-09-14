@@ -1,0 +1,15 @@
+{
+  "item.low_firepower.bloodline": "Bloodline · Combat Charm",
+  "item.low_firepower.perspective": "Perspective · Combat Charm",
+  "item.low_firepower.indifference": "Indifference · Combat Charm",
+  "item.low_firepower.chain": "Chain · Combat Charm",
+  "item.low_firepower.rage": "Rage · Combat Charm",
+  "item.low_firepower.temperance": "Temperance · Combat Charm",
+  "item.low_firepower.swift": "Swift · Combat Charm",
+  "item.low_firepower.dream": "Dream · Combat Charm",
+  "item.low_firepower.apocalypse": "Apocalypse · Combat Charm",
+  "item.low_firepower.firepower_core": "Firepower Core",
+  "itemGroup.low_firepower": "Low Firepower",
+  "curios.identifier.firepower": "Firepower",
+  "key.low_firepower.charm_info": "Inspect Firepower Charm"
+}

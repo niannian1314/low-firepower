@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NGN",
+    "GCG",
+    "NGN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:chain"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "C": {
+      "item": "low_firepower:firepower_core"
+    }
+  },
+  "result": {
+    "item": "low_firepower:chain"
+  }
+}

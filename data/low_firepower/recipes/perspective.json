@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ASA",
+    "SCS",
+    "APA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "S": {
+      "item": "minecraft:glass"
+    },
+    "P": {
+      "item": "minecraft:spyglass"
+    },
+    "C": {
+      "item": "low_firepower:firepower_core"
+    }
+  },
+  "result": {
+    "item": "low_firepower:perspective"
+  }
+}

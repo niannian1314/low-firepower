@@ -1,0 +1,15 @@
+{
+  "item.low_firepower.bloodline": "血线·战斗饰品",
+  "item.low_firepower.perspective": "透视·战斗饰品",
+  "item.low_firepower.indifference": "旁若无人·战斗饰品",
+  "item.low_firepower.chain": "连·战斗饰品",
+  "item.low_firepower.rage": "怒·战斗饰品",
+  "item.low_firepower.temperance": "节制·战斗饰品",
+  "item.low_firepower.swift": "迅即·战斗饰品",
+  "item.low_firepower.dream": "梦·战斗饰品",
+  "item.low_firepower.apocalypse": "末世·战斗饰品",
+  "item.low_firepower.firepower_core": "火力核心",
+  "itemGroup.low_firepower": "火力不足",
+  "curios.identifier.firepower": "火力不足",
+  "key.low_firepower.charm_info": "查看火力不足饰品"
+}

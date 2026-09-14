@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SRS",
+    "FCF",
+    "SRS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "R": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "C": {
+      "item": "low_firepower:firepower_core"
+    }
+  },
+  "result": {
+    "item": "low_firepower:swift"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BKB",
+    "ACA",
+    "BCB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "K": {
+      "item": "minecraft:skeleton_skull"
+    },
+    "A": {
+      "item": "minecraft:arrow"
+    },
+    "C": {
+      "item": "low_firepower:firepower_core"
+    }
+  },
+  "result": {
+    "item": "low_firepower:indifference"
+  }
+}

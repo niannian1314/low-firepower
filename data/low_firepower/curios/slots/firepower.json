@@ -1,0 +1,6 @@
+{
+  "size": 6,
+  "icon": "low_firepower:slot/empty_firepower_slot",
+  "order": 500,
+  "validators": ["curios:tag"]
+}
